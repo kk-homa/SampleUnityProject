@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UEPT.Runtime", "UEPT.Runtime.csproj", "{57a383ec-bd4b-d708-9f07-68b00c685814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UEPT.Shared", "UEPT.Shared.csproj", "{4a37d7c2-952c-b95f-d32d-e1c26f2e0662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UEPT.Backend", "UEPT.Backend.csproj", "{9fc80359-3a0c-716f-0d77-0091f164311b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UEPT.Tests.PlayMode", "UEPT.Tests.PlayMode.csproj", "{a9612112-6f21-9f01-2f95-e5dbe2504b9b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UEPT.Tests.EditMode", "UEPT.Tests.EditMode.csproj", "{8313f7b1-b513-4b8f-4334-ca3fab56bad5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57a383ec-bd4b-d708-9f07-68b00c685814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57a383ec-bd4b-d708-9f07-68b00c685814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4a37d7c2-952c-b95f-d32d-e1c26f2e0662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4a37d7c2-952c-b95f-d32d-e1c26f2e0662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9fc80359-3a0c-716f-0d77-0091f164311b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9fc80359-3a0c-716f-0d77-0091f164311b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a9612112-6f21-9f01-2f95-e5dbe2504b9b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a9612112-6f21-9f01-2f95-e5dbe2504b9b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8313f7b1-b513-4b8f-4334-ca3fab56bad5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8313f7b1-b513-4b8f-4334-ca3fab56bad5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
